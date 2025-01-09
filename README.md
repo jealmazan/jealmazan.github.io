@@ -2,6 +2,15 @@
 
 ![Wedding Banner](https://via.placeholder.com/1200x300.png?text=You're+Invited+to+Our+Wedding!)
 
+<style>
+body {
+    background: linear-gradient(to right, #50C878, #008080);
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+</style>
+
 ## **Join us on our special day!**
 
 **📅 Date:** Saturday, April 20, 2025  
@@ -57,4 +66,3 @@ We can’t wait to celebrate this joyful occasion with you! Thank you for being 
 
 With love,  
 **[Your Names]**
-
