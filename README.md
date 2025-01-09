@@ -20,9 +20,9 @@ ul, ol {
 
 ## **Join us on our special day!**
 
-**📅 Date:** Saturday, April 20, 2025  
-**⏰ Time:** 4:00 PM  
-**📍 Location:** Rosewood Gardens, 123 Blossom Lane, Springfield
+**📅 Date:** Thursday, August 14, 2025  
+**⏰ Time:** 1:00 PM  
+**📍 Location:** Santuario de San Vicente de Paul Parish & Shrine of the Poor
 
 ---
 
@@ -34,7 +34,7 @@ Expect an evening filled with love, laughter, great food, and unforgettable memo
 ---
 
 ### 💌 RSVP
-Kindly RSVP by April 1, 2025. You can RSVP by:
+Kindly RSVP by July 14, 2025. You can RSVP by:
 
 1. Filling out [this RSVP form](https://example.com/rsvp)  
 2. Emailing us at **ourwedding@example.com**  
@@ -50,9 +50,9 @@ Your presence is the greatest gift of all! If you'd like to bless us further, yo
 ---
 
 ### 🗺️ Directions
-📍 Rosewood Gardens is located at 123 Blossom Lane, Springfield. Here's a map to help you find us:
+📍 Santuario de San Vicente de Paul Parish & Shrine of the Poor. Here's a map to help you find us:
 
-[![Directions](https://via.placeholder.com/500x200.png?text=Click+for+Directions)](https://maps.example.com/rosewoodgardens)
+[![Directions](https://via.placeholder.com/500x200.png?text=Click+for+Directions)](https://maps.app.goo.gl/Ns5oiwx8YWbGpSz29)
 
 ---
 
