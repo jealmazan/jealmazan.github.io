@@ -57,13 +57,13 @@ We’d love to see your photos! Use our hashtag **#WeddingOfTheYear2025** when s
 ### 💕 Contact Us
 If you have any questions, feel free to reach out:
 
-- **Email:** ourwedding@example.com  
-- **Phone:** +1 (123) 456-7890
+- **Email:** jealmazan3@gmail.com  
+- **Phone:** 09176330579
 
 ---
 
 We can’t wait to celebrate this joyful occasion with you! Thank you for being part of our lives.
 
 With love,  
-**[Your Names]**
+**Ynnah & Edison**
 
