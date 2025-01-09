@@ -1,6 +1,6 @@
 # 💍 You're Invited! 🎉
 
-![Wedding Banner](https://via.placeholder.com/1200x300.png?text=You're+Invited+to+Our+Wedding!)
+![Wedding Banner](https://www.youtube.com/shorts/Hp8OZ4FdBXE)
 
 <style>
 body {
