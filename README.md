@@ -39,13 +39,6 @@ Kindly RSVP by July 14, 2025. You can RSVP by:
 1. Filling out [this RSVP form](https://example.com/rsvp)  
 2. Emailing us at **ourwedding@example.com**  
 
----
-
-### 🎁 Registry
-Your presence is the greatest gift of all! If you'd like to bless us further, you can visit our registry:
-
-- [Amazon Wedding Registry](https://example.com/registry)  
-- [Target Wedding Registry](https://example.com/registry)
 
 ---
 
