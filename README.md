@@ -10,6 +10,12 @@ body {
     padding: 20px;
     text-align: center;
 }
+ul, ol {
+    padding-left: 20px;
+    text-align: left;
+    display: inline-block;
+    margin: auto;
+}
 </style>
 
 ## **Join us on our special day!**
